@@ -1,16 +1,16 @@
-# How To Report a Vulnerability
+# Security Policy
 
- If you think you have found a vulnerability in Jakarta EE Servlet you can report it using one of the following ways:
+This project adheres to the [Eclipse Foundation Vulnerability Reporting Policy](https://www.eclipse.org/security/policy/).
 
- * Contact the [Eclipse Foundation Security Team](mailto:security@eclipse-foundation.org)
- * Create a [confidential issue](https://gitlab.eclipse.org/security/vulnerability-reports/-/issues/new?issuable_template=new_vulnerability)
+## How To Report a Vulnerability
 
- You can find more information about reporting and disclosure at the [Eclipse Foundation Security page](https://www.eclipse.org/security/).
+If you think you have found a vulnerability in Jakarta EE, you can report it using one of the following ways:
 
- # Supported Versions
+* Contact the [Eclipse Foundation Security Team](mailto:security@eclipse-foundation.org)
+* Create a [confidential issue](https://gitlab.eclipse.org/security/vulnerability-reports/-/issues/new?issuable_template=new_vulnerability)
 
- Only latest major version is supported.
+You can find more information about reporting and disclosure at the [Eclipse Foundation Security page](https://www.eclipse.org/security/).
 
- # Security Policy
+## Supported Versions
 
- This project follows [Eclipse Foundation Vulnerability Reporting Policy](https://www.eclipse.org/security/policy/).
+Check individual repositories for supported versions. By default, only the latest release is supported.
